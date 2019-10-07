@@ -1,2 +1,2 @@
 # api-github
-Listagem de repositórios de um usuário do github utilizando a API do github com javascript.
+Listagem de repositórios de usuários do github utilizando a API do github com javascript.
